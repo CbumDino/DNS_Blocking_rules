@@ -1,9 +1,9 @@
 # BAIAA TEST LIST
 # Lists used: 
-# https://easylist-downloads.adblockplus.org/easylist.txt
-# https://easylist-downloads.adblockplus.org/abpindo.txt
-# https://easylist-downloads.adblockplus.org/abpvn.txt
-# https://easylist-downloads.adblockplus.org/indianlist.txt
+# https://github.com/easylist/easylist
+# https://github.com/abpvn/abpvn
+# https://github.com/ABPindo/indonesianadblockrules
+# https://github.com/mediumkreation/IndianList
 #
 
 # [adsfry.com]
