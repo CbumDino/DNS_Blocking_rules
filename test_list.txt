@@ -6,6 +6,9 @@
 # https://github.com/mediumkreation/IndianList
 #
 
+127.0.0.1  localhost
+::1  localhost
+
 # [adsfry.com]
 127.0.0.1 adsfry.com
 
