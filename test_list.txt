@@ -1,4 +1,4 @@
-# BAIAA TEST LIST
+# FAIAA TEST LIST
 # Lists used: 
 # https://github.com/easylist/easylist
 # https://github.com/abpvn/abpvn
