@@ -12,11 +12,26 @@
 # [adsfry.com]
 127.0.0.1 adsfry.com
 
+# [Adsmoloco]
+127.0.0.1 cdn-f.adsmoloco.com
+
 # [adstudio.cloud]
 127.0.0.1 adstudio.cloud
 
+# [Amazon]
+127.0.0.1 aax-eu.amazon-adsystem.com
+127.0.0.1 aax.amazon-adsystem.com
+127.0.0.1 c.amazon-adsystem.com
+127.0.0.1 s.amazon-adsystem.com
+
 # [aj2031.online]
 127.0.0.1 aj2031.online
+
+# [Bidmachine]
+127.0.0.1 api.bidmachine.io
+
+# [Bidswitch.net]
+127.0.0.1 x.bidswitch.net
 
 # [budvawshes.ru]
 127.0.0.1 budvawshes.ru
@@ -8543,6 +8558,23 @@
 
 # [applicationsrapacity.com]
 127.0.0.1 applicationsrapacity.com
+
+# [Applovin]
+127.0.0.1 a.applovin.com
+127.0.0.1 a.applvn.com
+127.0.0.1 a4.applovin.com
+127.0.0.1 assets.applovin.com
+127.0.0.1 d.applovin.com
+127.0.0.1 d.applvn.com
+127.0.0.1 img.applovin.com
+127.0.0.1 ms.applovin.com
+127.0.0.1 ms.applvn.com
+127.0.0.1 ms4.applovin.com
+127.0.0.1 ms4.applvn.com
+127.0.0.1 prod-mediate-events.applovin.com
+127.0.0.1 res1.applovin.com
+127.0.0.1 rt.applovin.com
+127.0.0.1 rt.applvn.com
 
 # [appnow.sbs]
 127.0.0.1 appnow.sbs
@@ -38655,6 +38687,17 @@
 # [ironicfolks.com]
 127.0.0.1 ironicfolks.com
 
+# [Ironsource]
+127.0.0.1 cx.ssacdn.com
+127.0.0.1 platform.ssacdn.com
+127.0.0.1 rpc.tapjoy.com
+127.0.0.1 teleport.soom.la
+127.0.0.1 v.ssacdn.com
+127.0.0.1 logs.ironsrc.mobi
+127.0.0.1 networksdk.ssacdn.com
+127.0.0.1 logs.ironsrc.mobi
+127.0.0.1 networksdk.ssacdn.com
+
 # [ironthro5man.com]
 127.0.0.1 ironthro5man.com
 
@@ -43079,6 +43122,23 @@
 
 # [liftedd.net]
 127.0.0.1 liftedd.net
+
+# [Liftoft]
+127.0.0.1 adexp.liftoff.io
+127.0.0.1 adx.ads.vungle.com
+127.0.0.1 cdn-lb.vungle.com
+127.0.0.1 cdn.liftoff-creatives.io
+127.0.0.1 click.liftoff.io
+127.0.0.1 events.ads.vungle.com
+127.0.0.1 impression-east.liftoff.io
+127.0.0.1 new.ads.vungle.com
+127.0.0.1 report.ads.vungle.com
+127.0.0.1 adexp.liftoff.io
+127.0.0.1 cdn.liftoff-creatives.io
+127.0.0.1 impression-east.liftoff.io
+127.0.0.1 config.ads.vungle.com
+127.0.0.1 config.ads.vungle.com
+127.0.0.1 ads.api.vungle.com
 
 # [ligatus.com]
 127.0.0.1 ligatus.com
@@ -69945,6 +70005,10 @@
 # [taboizo.mom]
 127.0.0.1 taboizo.mom
 
+# [Taboola]
+127.0.0.1 am-trc-events.taboola.com
+127.0.0.1 trc.taboola.com
+
 # [taboringrigri.com]
 127.0.0.1 taboringrigri.com
 
@@ -83150,6 +83214,7 @@
 
 # [adcolony.com]
 127.0.0.1 adcolony.com
+127.0.0.1 adc-ad-assets.adtilt.com
 
 # [adconity.com]
 127.0.0.1 adconity.com
@@ -83999,6 +84064,9 @@
 
 # [appnext.com]
 127.0.0.1 appnext.com
+
+# [appnexus]
+127.0.0.1 ib.adnxs.com
 
 # [apprupt.com]
 127.0.0.1 apprupt.com
@@ -88662,6 +88730,11 @@
 # [api.bitp.it]
 127.0.0.1 api.bitp.it
 
+# [appsflyersdk.com]
+127.0.0.1 duqggm-adrevenue.appsflyersdk.com
+127.0.0.1 duqggm-inapps.appsflyersdk.com
+127.0.0.1 duqggm-launches.appsflyersdk.com
+
 # [apps.media-lab.ai]
 127.0.0.1 apps.media-lab.ai
 
@@ -88680,8 +88753,15 @@
 # [bgtw.chimeratool.com]
 127.0.0.1 bgtw.chimeratool.com
 
-# [bidder.criteo.com]
+# [criteo.com]
 127.0.0.1 bidder.criteo.com
+127.0.0.1 ads.eu.criteo.com
+127.0.0.1 csm.eu.criteo.net
+127.0.0.1 imageproxy.eu.criteo.net
+127.0.0.1 rtb.nl3.eu.criteo.com
+127.0.0.1 static.criteo.net
+127.0.0.1 widget.nl3.eu.criteo.com
+127.0.0.1 dis.criteo.com
 
 # [bidder.newspassid.com]
 127.0.0.1 bidder.newspassid.com
@@ -88700,9 +88780,6 @@
 
 # [campaigns.williamhill.com]
 127.0.0.1 campaigns.williamhill.com
-
-# [cas.*.criteo.com]
-127.0.0.1 cas.*.criteo.com
 
 # [chicoryapp.com]
 127.0.0.1 chicoryapp.com
@@ -88928,6 +89005,9 @@
 
 # [srv.tunefindforfans.com]
 127.0.0.1 srv.tunefindforfans.com
+
+# [startappservice]
+127.0.0.1 adimpression.startappservice.com
 
 # [static.tradetracker.net]
 127.0.0.1 static.tradetracker.net
@@ -92516,6 +92596,10 @@
 
 # [midgerelativelyhoax.com]
 127.0.0.1 midgerelativelyhoax.com
+
+# [mobilityware]
+127.0.0.1 api.prod.mwx.ext.mobilityware.com
+127.0.0.1 cross-promo.prod.mwx.ext.mobilityware.com
 
 # [mousheen.net]
 127.0.0.1 mousheen.net
